@@ -30,7 +30,7 @@ Basis data ini dirancang untuk mengelola sistem pengajuan proposal dalam lingkup
 - Melakukan verifikasi tanggal ujian
 
 ## Relationships
-![ERD Sistem Pengajuan Proposal](/sql_proposal/erd_proposal.drawio.png)
+![ERD Sistem Pengajuan Proposal](/erd_proposal.drawio.png)
 - Seorang mahasiswa hanya dapat mengajukan satu proposal. (1:1)
 - Seorang kaprodi dapat meninjau banyak proposal. (1:N)
 - Dua dospem dapat melakukan satu bimbingan penelitian. (N:1)
